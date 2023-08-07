@@ -1,6 +1,12 @@
 ---
 title: Homepage
 works:
+- name: Moodboard, Video Series, Pitchfork, 2022-2023
+  url: https://pitchfork.com/video/watch/mood-boad-alvvays
+  image: "/uploads/mb.gif"
+- name: Bjork, Cover Package, Pitchfork, 2022
+  url: https://pitchfork.com/features/cover-story/bjork-interview/
+  image: "/uploads/bjork.gif"
 - name: Behind The Scenes of the Hollywood Issue, Video, Vanity Fair, 2021
   url: https://www.vanityfair.com/hollywood/2021/02/radhika-jones-on-making-this-years-vanity-fair-hollywood-issue
   image: "/uploads/vf-hwd.gif"
@@ -25,6 +31,6 @@ works:
 layout: homepage
 ---
 
-Arjun Ram Srivatsa ![Arjun](/assets/images/Self.gif) is a videographer, designer, and animator based in Brooklyn, NY. He is currently a Visual Editor for Condé Nast. He is also the host of <a href="https://diversityhire.substack.com/">Diversity Hire</a>, a podcast about being "POC" in media.
+Arjun Ram Srivatsa ![Arjun](/assets/images/Self.gif) is an artist, musician, poet, animator, journalist, art critic, fiction essayist, creative director, video director, video editor, motion designer, graphic designer, sound designer, netartist, postinternet artist, podcaster, trend forecaster, birdwatcher, socialist, and friend living in Manhattan. He was previously the Director of Programming and Development for Pitchfork. He also hosted <a href="https://diversityhire.substack.com/">Diversity Hire</a>, a podcast about being "POC" in media.
 
-You can find his videos and animations—along with an abundance of selfies—on his [Instagram](https://www.instagram.com/arjununcle/).
+You can find his videos and animations on his [Instagram](https://www.instagram.com/arjununcle/).
