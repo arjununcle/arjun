@@ -30,6 +30,7 @@ works:
   image: "/uploads/vf-ysh.gif"
 layout: homepage
 ---
+![Construction](https://visualwebz.com/wp-content/uploads/2022/03/Gif-under-construction.gif) PAGE UNDER CONSTRUCTION ![Construction](https://visualwebz.com/wp-content/uploads/2022/03/Gif-under-construction.gif)
 
 Arjun Ram Srivatsa ![Arjun](/assets/images/Self.gif) is an artist, musician, poet, animator, journalist, art critic, fiction essayist, creative director, video director, video editor, motion designer, graphic designer, sound designer, netartist, postinternet artist, podcaster, trend forecaster, birdwatcher, socialist, and friend living in Manhattan. He was previously the Director of Programming and Development for Pitchfork. He also hosted <a href="https://diversityhire.substack.com/">Diversity Hire</a>, a podcast about being "POC" in media.
 
