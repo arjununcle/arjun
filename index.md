@@ -1,7 +1,7 @@
 ---
 title: Homepage
 works:
-- name: Mood board, Video Series, Pitchfork, 2022-2023
+- name: Moodboard, Video Series, Pitchfork, 2022-2023
   url: https://pitchfork.com/video/watch/mood-boad-alvvays
   image: "/uploads/mb.gif"
 - name: Bjork, Cover Package, Pitchfork, 2022
